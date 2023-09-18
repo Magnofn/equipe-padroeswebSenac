@@ -14,3 +14,5 @@ Integrantes:
 - Filipe Bodê
 - Gabriel Feitosa
 - Magno ViCtor
+- lucas carvalho
+  
